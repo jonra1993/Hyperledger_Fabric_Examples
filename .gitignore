@@ -1,3 +1,7 @@
+#ignore Fabric Binaries
+bin/   
+
+
 # Logs
 logs
 *.log
